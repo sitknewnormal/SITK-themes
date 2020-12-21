@@ -1,0 +1,13 @@
+{
+	"name": "SITK - Themes",
+    "build": {
+        "dockerfile": "Dockerfile",
+    },
+	"settings": {
+		"terminal.integrated.shell.linux": "/bin/bash"
+	},
+	"extensions": [
+		"eamodio.gitlens",
+		"tht13.html-preview-vscode"
+	],
+}
